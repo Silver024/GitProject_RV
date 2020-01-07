@@ -1,0 +1,463 @@
+# depslib dependency file v1.0
+1576097976 source:c:\users\gcant\onedrive - ipleiria\estg\programação 1\projeto\projeto_0.0\main.c
+	<stdio.h>
+	<stdlib.h>
+	"constantes.h"
+	"estruturas.h"
+	"funcoes_estudantes.h"
+
+1576082045 c:\users\gcant\onedrive - ipleiria\estg\programação 1\projeto\projeto_0.0\constantes.h
+
+1576080273 c:\users\gcant\onedrive - ipleiria\estg\programação 1\projeto\projeto_0.0\estruturas.h
+	"constantes.h"
+
+1575977819 source:c:\users\gcant\onedrive - ipleiria\estg\programação 1\projeto\projeto_0.0\funcoes_auxiliares.c
+	<stdio.h>
+	<string.h>
+	"funcoes_auxiliares.h"
+
+1575977676 c:\users\gcant\onedrive - ipleiria\estg\programação 1\projeto\projeto_0.0\funcoes_auxiliares.h
+	"constantes.h"
+	"estruturas.h"
+
+1576099888 c:\users\gcant\onedrive - ipleiria\estg\programação 1\projeto\projeto_0.0\funcoes_estudantes.h
+
+1576099985 source:c:\users\gcant\onedrive - ipleiria\estg\programação 1\projeto\projeto_0.0\funcoes_estudantes.c
+	<stdio.h>
+	<ctype.h>
+	"funcoes_auxiliares.h"
+	"funcoes_estudantes.h"
+	"constantes.h"
+	<string.h>
+
+1575977819 source:c:\users\gcant\onedrive - ipleiria\estg\programação 1\projeto\projeto_0.1\funcoes_auxiliares.c
+	<stdio.h>
+	<string.h>
+	"funcoes_auxiliares.h"
+
+1575977676 c:\users\gcant\onedrive - ipleiria\estg\programação 1\projeto\projeto_0.1\funcoes_auxiliares.h
+	"constantes.h"
+	"estruturas.h"
+
+1576082045 c:\users\gcant\onedrive - ipleiria\estg\programação 1\projeto\projeto_0.1\constantes.h
+
+1576080273 c:\users\gcant\onedrive - ipleiria\estg\programação 1\projeto\projeto_0.1\estruturas.h
+	"constantes.h"
+
+1576446456 source:c:\users\gcant\onedrive - ipleiria\estg\programação 1\projeto\projeto_0.1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"constantes.h"
+	"estruturas.h"
+	"funcoes_estudantes.h"
+
+1576446511 c:\users\gcant\onedrive - ipleiria\estg\programação 1\projeto\projeto_0.1\funcoes_estudantes.h
+
+1576446572 source:c:\users\gcant\onedrive - ipleiria\estg\programação 1\projeto\projeto_0.1\funcoes_estudantes.c
+	<stdio.h>
+	<ctype.h>
+	"funcoes_auxiliares.h"
+	"funcoes_estudantes.h"
+	"constantes.h"
+	<string.h>
+
+1575977819 source:c:\users\gcant\onedrive - ipleiria\estg\programação 1\projeto\projeto_0.2\funcoes_auxiliares.c
+	<stdio.h>
+	<string.h>
+	"funcoes_auxiliares.h"
+
+1575977676 c:\users\gcant\onedrive - ipleiria\estg\programação 1\projeto\projeto_0.2\funcoes_auxiliares.h
+	"constantes.h"
+	"estruturas.h"
+
+1576082045 c:\users\gcant\onedrive - ipleiria\estg\programação 1\projeto\projeto_0.2\constantes.h
+
+1576080273 c:\users\gcant\onedrive - ipleiria\estg\programação 1\projeto\projeto_0.2\estruturas.h
+	"constantes.h"
+
+1576671345 source:c:\users\gcant\onedrive - ipleiria\estg\programação 1\projeto\projeto_0.2\funcoes_estudantes.c
+	<stdio.h>
+	<ctype.h>
+	"funcoes_auxiliares.h"
+	"funcoes_estudantes.h"
+	"constantes.h"
+	<string.h>
+
+1576446511 c:\users\gcant\onedrive - ipleiria\estg\programação 1\projeto\projeto_0.2\funcoes_estudantes.h
+
+1576671310 source:c:\users\gcant\onedrive - ipleiria\estg\programação 1\projeto\projeto_0.2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"constantes.h"
+	"estruturas.h"
+	"funcoes_estudantes.h"
+
+1575977819 source:c:\users\gcant\onedrive - ipleiria\estg\programação 1\projeto\projeto_0.3\funcoes_auxiliares.c
+	<stdio.h>
+	<string.h>
+	"funcoes_auxiliares.h"
+
+1575977676 c:\users\gcant\onedrive - ipleiria\estg\programação 1\projeto\projeto_0.3\funcoes_auxiliares.h
+	"constantes.h"
+	"estruturas.h"
+
+1576674791 c:\users\gcant\onedrive - ipleiria\estg\programação 1\projeto\projeto_0.3\constantes.h
+
+1576674590 c:\users\gcant\onedrive - ipleiria\estg\programação 1\projeto\projeto_0.3\estruturas.h
+	"constantes.h"
+
+1576674714 source:c:\users\gcant\onedrive - ipleiria\estg\programação 1\projeto\projeto_0.3\funcoes_estudantes.c
+	<stdio.h>
+	<ctype.h>
+	"funcoes_auxiliares.h"
+	"funcoes_estudantes.h"
+	"constantes.h"
+	<string.h>
+
+1576673002 c:\users\gcant\onedrive - ipleiria\estg\programação 1\projeto\projeto_0.3\funcoes_estudantes.h
+
+1576672357 source:c:\users\gcant\onedrive - ipleiria\estg\programação 1\projeto\projeto_0.3\main.c
+	<stdio.h>
+	<stdlib.h>
+	"constantes.h"
+	"estruturas.h"
+	"funcoes_estudantes.h"
+
+1575977819 source:c:\users\gcant\onedrive - ipleiria\estg\programação 1\projeto\projetogonçalo\projeto_0.3\funcoes_auxiliares.c
+	<stdio.h>
+	<string.h>
+	"funcoes_auxiliares.h"
+
+1575977676 c:\users\gcant\onedrive - ipleiria\estg\programação 1\projeto\projetogonçalo\projeto_0.3\funcoes_auxiliares.h
+	"constantes.h"
+	"estruturas.h"
+
+1576674791 c:\users\gcant\onedrive - ipleiria\estg\programação 1\projeto\projetogonçalo\projeto_0.3\constantes.h
+
+1576674590 c:\users\gcant\onedrive - ipleiria\estg\programação 1\projeto\projetogonçalo\projeto_0.3\estruturas.h
+	"constantes.h"
+
+1576674714 source:c:\users\gcant\onedrive - ipleiria\estg\programação 1\projeto\projetogonçalo\projeto_0.3\funcoes_estudantes.c
+	<stdio.h>
+	<ctype.h>
+	"funcoes_auxiliares.h"
+	"funcoes_estudantes.h"
+	"constantes.h"
+	<string.h>
+
+1576673002 c:\users\gcant\onedrive - ipleiria\estg\programação 1\projeto\projetogonçalo\projeto_0.3\funcoes_estudantes.h
+
+1576672357 source:c:\users\gcant\onedrive - ipleiria\estg\programação 1\projeto\projetogonçalo\projeto_0.3\main.c
+	<stdio.h>
+	<stdlib.h>
+	"constantes.h"
+	"estruturas.h"
+	"funcoes_estudantes.h"
+
+1575977819 source:c:\users\gcant\onedrive - ipleiria\estg\programação 1\projeto\projeto 1.0 (perguntas)\funcoes_auxiliares.c
+	<stdio.h>
+	<string.h>
+	"funcoes_auxiliares.h"
+
+1575977676 c:\users\gcant\onedrive - ipleiria\estg\programação 1\projeto\projeto 1.0 (perguntas)\funcoes_auxiliares.h
+	"constantes.h"
+	"estruturas.h"
+
+1576677363 c:\users\gcant\onedrive - ipleiria\estg\programação 1\projeto\projeto 1.0 (perguntas)\constantes.h
+
+1576691774 c:\users\gcant\onedrive - ipleiria\estg\programação 1\projeto\projeto 1.0 (perguntas)\estruturas.h
+	"constantes.h"
+
+1576674714 source:c:\users\gcant\onedrive - ipleiria\estg\programação 1\projeto\projeto 1.0 (perguntas)\funcoes_estudantes.c
+	<stdio.h>
+	<ctype.h>
+	"funcoes_auxiliares.h"
+	"funcoes_estudantes.h"
+	"constantes.h"
+	<string.h>
+
+1576673002 c:\users\gcant\onedrive - ipleiria\estg\programação 1\projeto\projeto 1.0 (perguntas)\funcoes_estudantes.h
+
+1576672357 source:c:\users\gcant\onedrive - ipleiria\estg\programação 1\projeto\projeto 1.0 (perguntas)\main.c
+	<stdio.h>
+	<stdlib.h>
+	"constantes.h"
+	"estruturas.h"
+	"funcoes_estudantes.h"
+
+1576688624 source:c:\users\gcant\onedrive - ipleiria\estg\programação 1\projeto\projeto 1.0 (perguntas)\funcoes_perguntas.c
+	<stdio.h>
+	<ctype.h>
+	"funcoes_auxiliares.h"
+	"funcoes_estudantes.h"
+	"constantes.h"
+	<string.h>
+
+1576764459 source:c:\users\gcant\onedrive - ipleiria\estg\programação 1\projeto\projeto gitkraken\p1_project\funcoes_auxiliares.c
+	<stdio.h>
+	<string.h>
+	"funcoes_auxiliares.h"
+
+1576764222 c:\users\gcant\onedrive - ipleiria\estg\programação 1\projeto\projeto gitkraken\p1_project\funcoes_auxiliares.h
+	"constantes.h"
+	"estruturas.h"
+
+1576677363 c:\users\gcant\onedrive - ipleiria\estg\programação 1\projeto\projeto gitkraken\p1_project\constantes.h
+
+1576752042 c:\users\gcant\onedrive - ipleiria\estg\programação 1\projeto\projeto gitkraken\p1_project\estruturas.h
+	"constantes.h"
+
+1576764160 source:c:\users\gcant\onedrive - ipleiria\estg\programação 1\projeto\projeto gitkraken\p1_project\funcoes_estudantes.c
+	<stdio.h>
+	<ctype.h>
+	"funcoes_auxiliares.h"
+	"funcoes_estudantes.h"
+	"constantes.h"
+	<string.h>
+
+1576673002 c:\users\gcant\onedrive - ipleiria\estg\programação 1\projeto\projeto gitkraken\p1_project\funcoes_estudantes.h
+
+1576764348 source:c:\users\gcant\onedrive - ipleiria\estg\programação 1\projeto\projeto gitkraken\p1_project\main.c
+	<stdio.h>
+	<stdlib.h>
+	"constantes.h"
+	"estruturas.h"
+	"funcoes_estudantes.h"
+	"funcoes_auxiliares.h"
+	"funcoes_perguntas.h"
+
+1576752374 source:c:\users\gcant\onedrive - ipleiria\estg\programação 1\projeto\projeto gitkraken\p1_project\funcoes_perguntas.c
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+	"funcoes_auxiliares.h"
+	"funcoes_estudantes.h"
+	"constantes.h"
+
+1576752161 c:\users\gcant\onedrive - ipleiria\estg\programação 1\projeto\projeto gitkraken\p1_project\funcoes_perguntas.h
+
+1576766157 ated upstream
+
+1576752161 D
+
+1576752161 shed changes
+
+1576764459 source:c:\users\gcant\onedrive - ipleiria\estg\programação 1\projeto\projeto_1.1(perguntas)\funcoes_auxiliares.c
+	<stdio.h>
+	<string.h>
+	"funcoes_auxiliares.h"
+
+1576764222 c:\users\gcant\onedrive - ipleiria\estg\programação 1\projeto\projeto_1.1(perguntas)\funcoes_auxiliares.h
+	"constantes.h"
+	"estruturas.h"
+
+1576677363 c:\users\gcant\onedrive - ipleiria\estg\programação 1\projeto\projeto_1.1(perguntas)\constantes.h
+
+1576752042 c:\users\gcant\onedrive - ipleiria\estg\programação 1\projeto\projeto_1.1(perguntas)\estruturas.h
+	"constantes.h"
+
+1576752374 source:c:\users\gcant\onedrive - ipleiria\estg\programação 1\projeto\projeto_1.1(perguntas)\funcoes_perguntas.c
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+	"funcoes_auxiliares.h"
+	"funcoes_estudantes.h"
+	"constantes.h"
+
+1576765547 c:\users\gcant\onedrive - ipleiria\estg\programação 1\projeto\projeto_1.1(perguntas)\funcoes_estudantes.h
+
+1576764348 source:c:\users\gcant\onedrive - ipleiria\estg\programação 1\projeto\projeto_1.1(perguntas)\main.c
+	<stdio.h>
+	<stdlib.h>
+	"constantes.h"
+	"estruturas.h"
+	"funcoes_estudantes.h"
+	"funcoes_auxiliares.h"
+	"funcoes_perguntas.h"
+
+1576752161 c:\users\gcant\onedrive - ipleiria\estg\programação 1\projeto\projeto_1.1(perguntas)\funcoes_perguntas.h
+
+1576766157 source:c:\users\gcant\onedrive - ipleiria\estg\programação 1\projeto\projeto_1.1(perguntas)\funcoes_estudantes.c
+	<stdio.h>
+	<ctype.h>
+	"funcoes_auxiliares.h"
+	"funcoes_estudantes.h"
+	"constantes.h"
+	<string.h>
+
+1576766157 ter
+
+1576766157 
+
+1576767206 source:c:\users\gcant\onedrive - ipleiria\estg\programação 1\projeto\projetogonçalo\projeto_1.1(perguntas)\funcoes_auxiliares.c
+	<stdio.h>
+	<string.h>
+	"funcoes_auxiliares.h"
+
+1576767206 c:\users\gcant\onedrive - ipleiria\estg\programação 1\projeto\projetogonçalo\projeto_1.1(perguntas)\funcoes_auxiliares.h
+	"constantes.h"
+	"estruturas.h"
+
+1576767206 c:\users\gcant\onedrive - ipleiria\estg\programação 1\projeto\projetogonçalo\projeto_1.1(perguntas)\constantes.h
+
+1576767206 c:\users\gcant\onedrive - ipleiria\estg\programação 1\projeto\projetogonçalo\projeto_1.1(perguntas)\estruturas.h
+	"constantes.h"
+
+1576767323 source:c:\users\gcant\onedrive - ipleiria\estg\programação 1\projeto\projetogonçalo\projeto_1.1(perguntas)\funcoes_estudantes.c
+	<stdio.h>
+	<ctype.h>
+	"funcoes_auxiliares.h"
+	"funcoes_estudantes.h"
+	"constantes.h"
+	<string.h>
+
+1576767311 c:\users\gcant\onedrive - ipleiria\estg\programação 1\projeto\projetogonçalo\projeto_1.1(perguntas)\funcoes_estudantes.h
+
+1576767206 source:c:\users\gcant\onedrive - ipleiria\estg\programação 1\projeto\projetogonçalo\projeto_1.1(perguntas)\funcoes_perguntas.c
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+	"funcoes_auxiliares.h"
+	"funcoes_estudantes.h"
+	"constantes.h"
+
+1576767206 source:c:\users\gcant\onedrive - ipleiria\estg\programação 1\projeto\projetogonçalo\projeto_1.1(perguntas)\main.c
+	<stdio.h>
+	<stdlib.h>
+	"constantes.h"
+	"estruturas.h"
+	"funcoes_estudantes.h"
+	"funcoes_auxiliares.h"
+	"funcoes_perguntas.h"
+
+1576767206 c:\users\gcant\onedrive - ipleiria\estg\programação 1\projeto\projetogonçalo\projeto_1.1(perguntas)\funcoes_perguntas.h
+
+1576767206 source:c:\users\gcant\onedrive - ipleiria\estg\programação 1\projeto\projetogonçalo\projeto_1.2(perguntas)\funcoes_auxiliares.c
+	<stdio.h>
+	<string.h>
+	"funcoes_auxiliares.h"
+
+1576767206 c:\users\gcant\onedrive - ipleiria\estg\programação 1\projeto\projetogonçalo\projeto_1.2(perguntas)\funcoes_auxiliares.h
+	"constantes.h"
+	"estruturas.h"
+
+1576767206 c:\users\gcant\onedrive - ipleiria\estg\programação 1\projeto\projetogonçalo\projeto_1.2(perguntas)\constantes.h
+
+1576767206 c:\users\gcant\onedrive - ipleiria\estg\programação 1\projeto\projetogonçalo\projeto_1.2(perguntas)\estruturas.h
+	"constantes.h"
+
+1576767323 source:c:\users\gcant\onedrive - ipleiria\estg\programação 1\projeto\projetogonçalo\projeto_1.2(perguntas)\funcoes_estudantes.c
+	<stdio.h>
+	<ctype.h>
+	"funcoes_auxiliares.h"
+	"funcoes_estudantes.h"
+	"constantes.h"
+	<string.h>
+
+1576767311 c:\users\gcant\onedrive - ipleiria\estg\programação 1\projeto\projetogonçalo\projeto_1.2(perguntas)\funcoes_estudantes.h
+
+1576767206 source:c:\users\gcant\onedrive - ipleiria\estg\programação 1\projeto\projetogonçalo\projeto_1.2(perguntas)\funcoes_perguntas.c
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+	"funcoes_auxiliares.h"
+	"funcoes_estudantes.h"
+	"constantes.h"
+
+1576767206 source:c:\users\gcant\onedrive - ipleiria\estg\programação 1\projeto\projetogonçalo\projeto_1.2(perguntas)\main.c
+	<stdio.h>
+	<stdlib.h>
+	"constantes.h"
+	"estruturas.h"
+	"funcoes_estudantes.h"
+	"funcoes_auxiliares.h"
+	"funcoes_perguntas.h"
+
+1576767206 c:\users\gcant\onedrive - ipleiria\estg\programação 1\projeto\projetogonçalo\projeto_1.2(perguntas)\funcoes_perguntas.h
+
+1577191355 source:c:\users\gcant\onedrive - ipleiria\estg\programação 1\projeto\gitprojeto\funcoes_auxiliares.c
+	<stdio.h>
+	<string.h>
+	"funcoes_auxiliares.h"
+
+1576767206 c:\users\gcant\onedrive - ipleiria\estg\programação 1\projeto\gitprojeto\funcoes_auxiliares.h
+	"constantes.h"
+	"estruturas.h"
+
+1577191355 c:\users\gcant\onedrive - ipleiria\estg\programação 1\projeto\gitprojeto\constantes.h
+
+1577191368 c:\users\gcant\onedrive - ipleiria\estg\programação 1\projeto\gitprojeto\estruturas.h
+	"constantes.h"
+
+1577557279 source:c:\users\gcant\onedrive - ipleiria\estg\programação 1\projeto\gitprojeto\funcoes_estudantes.c
+	<stdio.h>
+	<ctype.h>
+	"funcoes_auxiliares.h"
+	"funcoes_estudantes.h"
+	"constantes.h"
+	<string.h>
+
+1577557156 c:\users\gcant\onedrive - ipleiria\estg\programação 1\projeto\gitprojeto\funcoes_estudantes.h
+
+1577557279 source:c:\users\gcant\onedrive - ipleiria\estg\programação 1\projeto\gitprojeto\funcoes_perguntas.c
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+	"funcoes_auxiliares.h"
+	"funcoes_estudantes.h"
+	"constantes.h"
+
+1577557202 source:c:\users\gcant\onedrive - ipleiria\estg\programação 1\projeto\gitprojeto\main.c
+	<stdio.h>
+	<stdlib.h>
+	"constantes.h"
+	"estruturas.h"
+	"funcoes_estudantes.h"
+	"funcoes_auxiliares.h"
+	"funcoes_perguntas.h"
+
+1577557156 c:\users\gcant\onedrive - ipleiria\estg\programação 1\projeto\gitprojeto\funcoes_perguntas.h
+
+1578252480 source:c:\users\rvsil\desktop\projeto 2.0 (alunos e perguntas)\funcoes_auxiliares.c
+	<stdio.h>
+	<string.h>
+	"funcoes_auxiliares.h"
+
+1578252480 c:\users\rvsil\desktop\projeto 2.0 (alunos e perguntas)\funcoes_auxiliares.h
+	"constantes.h"
+	"estruturas.h"
+
+1578252480 c:\users\rvsil\desktop\projeto 2.0 (alunos e perguntas)\constantes.h
+
+1578252480 c:\users\rvsil\desktop\projeto 2.0 (alunos e perguntas)\estruturas.h
+	"constantes.h"
+
+1578252480 source:c:\users\rvsil\desktop\projeto 2.0 (alunos e perguntas)\funcoes_estudantes.c
+	<stdio.h>
+	<ctype.h>
+	"funcoes_auxiliares.h"
+	"funcoes_estudantes.h"
+	"constantes.h"
+	<string.h>
+
+1578252480 c:\users\rvsil\desktop\projeto 2.0 (alunos e perguntas)\funcoes_estudantes.h
+
+1578252480 source:c:\users\rvsil\desktop\projeto 2.0 (alunos e perguntas)\funcoes_perguntas.c
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+	"funcoes_auxiliares.h"
+	"funcoes_estudantes.h"
+	"constantes.h"
+
+1578252480 source:c:\users\rvsil\desktop\projeto 2.0 (alunos e perguntas)\main.c
+	<stdio.h>
+	<stdlib.h>
+	"constantes.h"
+	"estruturas.h"
+	"funcoes_estudantes.h"
+	"funcoes_auxiliares.h"
+	"funcoes_perguntas.h"
+
+1578252480 c:\users\rvsil\desktop\projeto 2.0 (alunos e perguntas)\funcoes_perguntas.h
+
